@@ -20,6 +20,7 @@ As the seat of Cook County, the second-most populous county in the U.S., Chicago
 
 metropolitan area, often colloquially called "Chicagoland" and home to 9.6 million residents.
 
+
 BUSSINESS UNDERSTANDING
 
 The City of Chicago has implemented E-Crash a reporting tool for car accidents that happen within the City of Chicago, but
@@ -35,6 +36,8 @@ This will in turn help keep the citizens of Chicago safe through preventative me
 in implementation of city planning principles to reduces the crashes and limit the amount of resources the City of Chicago
 
 utilises to solve these cases
+
+
 
 OBJECTIVE:
 
@@ -61,6 +64,7 @@ many other characterizes that help paint a picture of how the car crash occurred
 provides comprehensive and relevant information needed to predict the primary contributory cause of car accidents, which
 
 aligns with our business objective to improve traffic safety.
+
 
 ◦ **TARGET VARIABLE**
 
@@ -99,6 +103,7 @@ The data set has 835407 entries
 ◦ Change if data types to for proper analysis
 
 ◦ Missing values and duplicates handled appropriately and data visualized
+
 
 EDA
 
